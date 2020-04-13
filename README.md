@@ -6,4 +6,4 @@ LinkedIn: [ysliang](https://linkedin.com/in/ysliang)
 
 Google Scholar: [Ying Siu Liang](https://scholar.google.fr/citations?user=P0RMyasAAAAJ&hl)
 
-Email: yingsiu AT liang DOT at
+Email: yingsiu [AT] liang [DOT] at
