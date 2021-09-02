@@ -1,5 +1,7 @@
 # Ying Siu (Sheryl) Liang, PhD 
 
+CV: [Here](CV_YingSiuLiang.pdf)
+
 GitHub: [ysl208](https://github.com/ysl208)
 
 LinkedIn: [ysliang](https://linkedin.com/in/ysliang) 
